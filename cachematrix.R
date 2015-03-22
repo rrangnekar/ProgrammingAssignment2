@@ -1,3 +1,6 @@
+## This solution is based on the makeVector() and cachemean() examples
+## provided in the writeup to Assignment 2
+##
 ## makeCacheMatrix accepts a matrix as argument x
 ## cacheSolve accepts an object of the matrix type created above
 ## and return the inverse of the matrix obtained using the solve() function
